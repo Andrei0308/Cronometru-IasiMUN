@@ -1,6 +1,6 @@
 # Cronometru-IasiMUN
 
-Script realizat pentru a fi afisat pe pagina principala a site-ului https://iasimun.ro .
+Script realizat pentru a fi afisat pe pagina principala a site-ului [IasiMUN](https://iasimun.ro).
 
 **Cronometrul utilizeaza Biblioteca P5.JS
 https://p5js.org/**
